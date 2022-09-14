@@ -1,4 +1,4 @@
-# Example VueJS with Auth0
+# Example VueJS with Auth0 (2 Day Project)
 
 ## Project setup
 ```
